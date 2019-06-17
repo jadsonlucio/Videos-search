@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.org/simple"
+
+[packages]
+requests = "*"
+"beautifulsoup4" = "*"
+firebase-admin = "*"
+flask = "*"
+lxml = "*"
+
+[requires]
+python_version = "3.5"
+
+[dev-packages]
