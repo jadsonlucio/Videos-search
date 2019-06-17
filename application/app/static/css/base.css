@@ -1,0 +1,18 @@
+html,body {
+    font-family: 'Lato';
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+  }
+
+body {
+    background-image: url("/static/img/background.png");
+    background-color: #cccccc;
+  }
+
+#content{
+    height: 100%;
+    width: 100%;
+}
